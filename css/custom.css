@@ -1,0 +1,54 @@
+body {
+	/*background-color: #F2F2F2;*/
+	background-color:#F7F7F7;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 17px;
+	text-align: center;
+}
+
+h1 {
+ 	font-family: 'The Girl Next Door', cursive;
+ 	color: #22313F;
+ 	font-weight: 600;
+ 	margin:3% 0% 0% 0%;
+ 	font-size: 50px;
+ }
+
+ h2 {
+ 	font-family: 'The Girl Next Door', cursive;
+ 	color: #2C3E50;
+ 	text-align: center;
+ 	font-size: 30px;
+ 	font-weight: 400;
+ }
+ 
+ 
+
+.work-container {
+	margin:5% 0% 0% 0%;
+
+
+}
+
+.contact-container {
+	margin:4% 0% 0% 0%;
+}
+
+/*portrait mode*/
+/*iphone 4s/5/5s/6/6+ */
+
+@media screen and (max-width: 414px) {
+
+	
+
+}
+
+/*landscape mode */
+/*iphone for 4s/5/5s/6/6+ */
+
+@media screen and (max-width: 736px) {
+	
+}
+
+
+
